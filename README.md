@@ -1,5 +1,7 @@
-## Introduction
+## Instructions to Use the Repo
+Please clone the directory to working directory at your machine. The scriptfiles will create a folder named Data in working directory and download / unzip the data in "Data" folder. The plotting scripts will make a png file for the corresponding graphs in the working directory. 
 
+## Introduction
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
